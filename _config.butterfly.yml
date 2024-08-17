@@ -9,8 +9,8 @@ nav:
 
 # Menu 目錄
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
+  Home: / || fas fa-home
+  Archives: /archive/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
@@ -875,7 +875,7 @@ pangu:
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   enable: true
-  field: post # site/post
+  field: site # site/post
   placeholder: https://xn--32g.601288.xyz/loading.gif
   blur: true
 
