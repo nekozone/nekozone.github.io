@@ -105,7 +105,7 @@ theme: butterfly
 deploy:
   type: ''
 abbrlink:
-  start: 0
+  start: 255
   
 kramed:
   gfm: true
