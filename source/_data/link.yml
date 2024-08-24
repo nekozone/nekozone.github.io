@@ -1,0 +1,36 @@
+- class_name: 友情链接
+  class_desc: 按添加时间先后排序
+  link_list:
+    - name: Zeka 的记事本
+      link: https://flag.zeka.cloud/
+      avatar: https://flag.zeka.cloud/static/images/avatar.jpg
+      descr: '' 
+    - name: Alevel blog
+      link: https://blog.alevel.tech/about/
+      avatar: https://avatars1.githubusercontent.com/u/49670244?s=460&v=4
+      descr: ''
+    - name: 糖菓·部落
+      link: https://candinya.com
+      avatar: https://cn.gravatar.com/avatar/a7f9e15fef26e0a540edc977e21cb3eb
+      descr: ''
+    - name: 穗歆小站
+      link: https://rsesot.cn
+      avatar: https://www.helloimg.com/images/2023/02/16/oFnkr6.png
+      descr: ''
+    - name: FGHRSH
+      link: https://www.fghrsh.net/
+      avatar: https://fp1.fghrsh.net/2020/01/19/18a92e19f933ec444501df4a564d40ca.png!q90.300p.jpeg
+      descr: ''
+    - name: 瓠樽
+      link: https://blog.dylanwu.space/
+      avatar: https://gravatar.cat.net/avatar/f921619e279c9302ce26feb551e1df3a?s=96&d=mp&r=g
+      descr: ''
+    - name: Leoの小站
+      link: https://www.koileo.com
+      avatar: https://www.koileo.com/favicon.ico
+      descr: ''
+    - name: 乐呵呵同学
+      link: https://blog.lehhair.net/
+      avatar: https://blog.lehhair.net/upload/logo.jpg
+      descr: '' 
+      
