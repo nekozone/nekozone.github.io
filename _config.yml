@@ -14,7 +14,8 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://nekozone.github.io/
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+permalink: archives/:abbrlink/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -24,7 +25,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: archive
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -103,3 +104,14 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+abbrlink:
+  start: 255
+  
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
